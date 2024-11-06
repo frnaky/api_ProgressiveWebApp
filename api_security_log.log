@@ -1,0 +1,31 @@
+2024-11-05 22:26:41,061  * Debugger is active!
+2024-11-05 22:26:41,061  * Debugger PIN: 692-283-491
+2024-11-05 22:27:02,250 127.0.0.1 - - [05/Nov/2024 22:27:02] "[31m[1mPOST /add_extension HTTP/1.1[0m" 401 -
+2024-11-05 22:27:02,953 ratelimit 1 per 1 second (127.0.0.1) exceeded at endpoint: post
+2024-11-05 22:27:02,954 127.0.0.1 - - [05/Nov/2024 22:27:02] "[31m[1mPOST /add_extension HTTP/1.1[0m" 429 -
+2024-11-05 22:27:03,129 ratelimit 1 per 1 second (127.0.0.1) exceeded at endpoint: post
+2024-11-05 22:27:03,130 127.0.0.1 - - [05/Nov/2024 22:27:03] "[31m[1mPOST /add_extension HTTP/1.1[0m" 429 -
+2024-11-05 22:27:03,296 127.0.0.1 - - [05/Nov/2024 22:27:03] "[31m[1mPOST /add_extension HTTP/1.1[0m" 401 -
+2024-11-05 22:27:03,904 ratelimit 1 per 1 second (127.0.0.1) exceeded at endpoint: post
+2024-11-05 22:27:03,904 127.0.0.1 - - [05/Nov/2024 22:27:03] "[31m[1mPOST /add_extension HTTP/1.1[0m" 429 -
+2024-11-05 22:27:04,056 ratelimit 1 per 1 second (127.0.0.1) exceeded at endpoint: post
+2024-11-05 22:27:04,057 127.0.0.1 - - [05/Nov/2024 22:27:04] "[31m[1mPOST /add_extension HTTP/1.1[0m" 429 -
+2024-11-05 22:27:04,192 ratelimit 1 per 1 second (127.0.0.1) exceeded at endpoint: post
+2024-11-05 22:27:04,192 127.0.0.1 - - [05/Nov/2024 22:27:04] "[31m[1mPOST /add_extension HTTP/1.1[0m" 429 -
+2024-11-05 22:27:04,327 127.0.0.1 - - [05/Nov/2024 22:27:04] "[31m[1mPOST /add_extension HTTP/1.1[0m" 401 -
+2024-11-05 22:27:04,479 ratelimit 1 per 1 second (127.0.0.1) exceeded at endpoint: post
+2024-11-05 22:27:04,480 127.0.0.1 - - [05/Nov/2024 22:27:04] "[31m[1mPOST /add_extension HTTP/1.1[0m" 429 -
+2024-11-05 22:27:04,608 ratelimit 1 per 1 second (127.0.0.1) exceeded at endpoint: post
+2024-11-05 22:27:04,608 127.0.0.1 - - [05/Nov/2024 22:27:04] "[31m[1mPOST /add_extension HTTP/1.1[0m" 429 -
+2024-11-05 22:27:04,744 ratelimit 1 per 1 second (127.0.0.1) exceeded at endpoint: post
+2024-11-05 22:27:04,744 127.0.0.1 - - [05/Nov/2024 22:27:04] "[31m[1mPOST /add_extension HTTP/1.1[0m" 429 -
+2024-11-05 22:27:04,887 ratelimit 1 per 1 second (127.0.0.1) exceeded at endpoint: post
+2024-11-05 22:27:04,889 127.0.0.1 - - [05/Nov/2024 22:27:04] "[31m[1mPOST /add_extension HTTP/1.1[0m" 429 -
+2024-11-05 22:27:05,023 ratelimit 1 per 1 second (127.0.0.1) exceeded at endpoint: post
+2024-11-05 22:27:05,023 127.0.0.1 - - [05/Nov/2024 22:27:05] "[31m[1mPOST /add_extension HTTP/1.1[0m" 429 -
+2024-11-05 22:27:05,137 ratelimit 1 per 1 second (127.0.0.1) exceeded at endpoint: post
+2024-11-05 22:27:05,138 127.0.0.1 - - [05/Nov/2024 22:27:05] "[31m[1mPOST /add_extension HTTP/1.1[0m" 429 -
+2024-11-05 22:27:35,750 127.0.0.1 - - [05/Nov/2024 22:27:35] "[31m[1mPOST /add_extension HTTP/1.1[0m" 401 -
+2024-11-05 22:27:44,950 127.0.0.1 - - [05/Nov/2024 22:27:44] "[31m[1mPOST /add_extension HTTP/1.1[0m" 401 -
+2024-11-05 22:29:11,188 127.0.0.1 - - [05/Nov/2024 22:29:11] "[31m[1mPOST /add_extension HTTP/1.1[0m" 401 -
+2024-11-05 22:29:49,178 127.0.0.1 - - [05/Nov/2024 22:29:49] "[35m[1mPOST /add_extension HTTP/1.1[0m" 201 -
