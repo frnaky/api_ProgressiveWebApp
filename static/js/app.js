@@ -10,8 +10,6 @@ if ("serviceWorker" in navigator) {
 document.addEventListener("DOMContentLoaded", function () {
   const navLinks = document.querySelectorAll(".nav-link");
   const currentUrl = window.location.pathname;
-  const form = document.getElementById("search-form");
-  const input = document.getElementById("search-input");
 
   navLinks.forEach((link) => {
     const linkUrl = link.getAttribute("href");
@@ -24,6 +22,10 @@ document.addEventListener("DOMContentLoaded", function () {
     }
   });
 });
+
+document.addEventListener("DOMContentLoaded", function () {
+  const form = document.getElementById("search-form");
+  const input = document.getElementById("search-input");
 
   form.addEventListener("submit", function (event) {
     event.preventDefault();

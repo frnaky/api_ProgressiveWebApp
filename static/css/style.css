@@ -13,3 +13,8 @@ body {
   border-radius: 20px;
   border: 1px yellow solid;
 }
+
+mark {
+    background-color: yellow;
+    padding: 0;
+}
